@@ -6,7 +6,7 @@
 
 ### 作业提交部分：
 
-1. [tab切换效果展示](markdown/exercise/ex1.md)
+1. [tab切换效果展示](markdown/exercise/ex1.md) 
 
 
 
@@ -18,7 +18,7 @@
   - LinearLayout的布局
   - fragment的使用，在容器之中的切换
   
-- [第二节——RecyclerView的使用]()
+- [第二节——RecyclerView的使用](markdown/note/Chap2.md)
 
   - 创建每个View所对应的JavaBean
   - Adapter的编写
