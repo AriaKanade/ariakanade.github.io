@@ -6,24 +6,23 @@
 
 ### 作业提交部分：
 
-1. [tab切换效果展示]()
+1. [tab切换效果展示](markdown/exercise/ex1.md)
 
 
 
 ### 学习笔记部分：
 
-- [第一节——基础UI部分](https://github.com/AriaKanade/ariakanade.github.io/blob/main/index.md)
+- [第一节——基础UI部分](markdown/note/Chap1.md)
 
   - Activity的初步使用
   - LinearLayout的布局
   - fragment的使用，在容器之中的切换
-  - tab切换效果展示
-
+  
 - [第二节——RecyclerView的使用]()
 
-  - 单个View的创建
+  - 创建每个View所对应的JavaBean
   - Adapter的编写
-  - 整体样式展示
+  - 调整控件整体样式
 
   
 
