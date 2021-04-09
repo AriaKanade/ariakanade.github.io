@@ -4,7 +4,10 @@
 
 **官方文档：https://developer.android.google.cn/docs?hl=zh_cn**
 
-[TOC]
+- [第一节——基础UI部分](#第一节基础ui部分)
+  - [Activity的初步使用](#activity的初步使用)
+  - [LinearLayout的布局](#linearlayout的布局)
+  - [Fragment的基础应用](#fragment的基础应用)
 
 ## Activity的初步使用
 
