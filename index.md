@@ -22,12 +22,13 @@
   
 - [第二节——RecyclerView的使用](markdown/note/Chap2.md)
 
-  - 创建每个View所对应的JavaBean
+  - 创建每个Item所对应的JavaBean
+  - 调整Item对应的样式
   - Adapter的编写
-  - 调整控件整体样式
-
+- 后台控制代码编写
   
 
   
 
+  
   
