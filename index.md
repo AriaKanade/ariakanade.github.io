@@ -9,6 +9,7 @@
 ### 作业提交部分：
 
 1. [tab切换效果展示](markdown/exercise/ex1.md) 
+2. [使用广播实现音乐播放器](markdown/exercise/ex2.md)
 
 
 

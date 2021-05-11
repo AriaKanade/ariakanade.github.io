@@ -1,6 +1,6 @@
 # tab切换效果展示
 
-#### 展示图:
+## 展示图:
 
 #### ![image-20210406182256261](..\..\image\image-20210406182256261.png)
 
@@ -8,11 +8,11 @@
 
 #### ![image-20210406182405868](..\..\image\image-20210406182405868.png)
 
-#### 功能说明:
+## 功能说明:
 
 整个app由一个toolbar,一个标题栏和一个LayoutFrame容器组成,四个fragment对应四个图标.
 
-#### 功能分析:
+## 核心代码说明:
 
 **XXXFragment:**
 
@@ -207,3 +207,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 **Layout部分:**
 
 使用gravity对齐文字,使用weight调整控件之间的大小格式,具体代码可以参考项目源码
+
+**项目源码：https://github.com/AriaKanade/Android**
